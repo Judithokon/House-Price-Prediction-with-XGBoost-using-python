@@ -11,4 +11,4 @@ In this notebook, I will be using a dataset of house prices and various features
 
 Overall, this project is an exciting opportunity to apply machine learning techniques to a real-world problem and gain valuable insights into the housing market. I hope you enjoy following along as I explore and analyze the data and build a predictive model using XGBoost
 
-<img align="center" alt="coding" width="2000" src="https://www.lendingtree.com/content/uploads/2019/03/for-sale-header.jpg">
+<img align="center" alt="coding" width="200" src="https://www.lendingtree.com/content/uploads/2019/03/for-sale-header.jpg">
