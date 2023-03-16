@@ -1,5 +1,5 @@
 # House-Price-Prediction-with-XGBoost
-Building a regression model to predict prices of Houses
+Machine Learning - Building a regression model to predict prices of Houses
 
 Welcome to my house price prediction notebook! In this project, I will be using the powerful machine learning algorithm called XGBoost to predict the sale prices of different houses.
 
